@@ -4,7 +4,7 @@
 
 <h3 >⚽ Goals </h3>
 <p>
-  e-Commerce Back-end Developer
+  Back-end Developer
 </p>
 
 <h3>🌱 I’m currently learning ... </h3>
